@@ -21,3 +21,20 @@ HTML/CSS (Frontend)
 
 🎯 Purpose
 The aim of this project is to understand digital behavior patterns and provide a predictive system that helps analyze which types of content keep users engaged.
+
+📚 Insights & Visualization
+The insights/ folder contains:
+EDA plots
+Feature importance
+Correlation heatmaps
+Behavioral pattern graphs
+These help understand what impacts attention span the most.
+
+🙌 Future Enhancements
+Add user login & history tracking
+Integrate Deep Learning model
+Deploy full version on cloud
+Add interactive analytics dashboard
+Convert UI into React Native 
+
+Thanks for checking out this project! Feel free to contribute or share your thoughts.✨
