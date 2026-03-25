@@ -41,10 +41,10 @@ It uses a trained Machine Learning model integrated with a Flask web app to gene
 
 ## How It Works
 
-1. User inputs content-related details through the web interface  
-2. Data is preprocessed and scaled  
-3. Trained ML model predicts attention span  
-4. Results are displayed on the UI  
+- User inputs content-related details through the web interface
+- Data is preprocessed and scaled
+- Trained ML model predicts attention span
+- Results are displayed on the UI  
 
 
 ## Key Insights
@@ -69,7 +69,7 @@ It uses a trained Machine Learning model integrated with a Flask web app to gene
  ### Content Strategy
 - Longer content increases attention span
 - Extremely long content leads to inconsistent engagement
-- 
+  
 ### User Interaction
 - Higher scroll depth strongly correlates with increased time spent
 
@@ -127,4 +127,4 @@ http://127.0.0.1:5000/
 
 ---
 
-Thanks for checking out this project! Feel free to contribute or share your thoughts.
+Thanks for checking out this project! Feel free to share your thoughts.
