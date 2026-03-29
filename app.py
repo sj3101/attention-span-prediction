@@ -5,8 +5,8 @@ import pandas as pd
 app = Flask(__name__)
 
 # Load model and scaler
-model = joblib.load(r"E:\Education\college\internship\ds_ibm\Attention_Span_Prediction_Project\model training\model_dump.pkl")
-scaler_y = joblib.load(r"E:\Education\college\internship\ds_ibm\Attention_Span_Prediction_Project\model training\scaler_y.pkl")
+model = joblib.load(r"\Attention_Span_Prediction_Project\model training\model_dump.pkl")
+scaler_y = joblib.load(r"\Attention_Span_Prediction_Project\model training\scaler_y.pkl")
 
 @app.route('/')
 def home():
