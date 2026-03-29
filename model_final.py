@@ -12,7 +12,7 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 from scipy.stats import randint
 
 # 1. Load Dataset
-df = pd.read_csv(r"E:\Education\college\internship\ds_ibm\Attention_Span_Prediction_Project\preprocessing\final_dataset_preprocessed.csv")
+df = pd.read_csv(r"\Attention_Span_Prediction_Project\preprocessing\final_dataset_preprocessed.csv")
 
 print("Missing values:\n", df.isnull().sum())
 
